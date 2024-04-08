@@ -1,0 +1,43 @@
+.domanda {
+    font-size: x-large;
+    font-weight: bold;
+}
+
+p {
+    font-size: 18px;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+}
+
+.activity {
+    margin-top: 10px;
+    width: 95%;
+    display: flex;
+    border: 3px solid black;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 2.5%;
+}
+
+.activity img {
+    width: 90%;
+ 
+}
+
+h2 {
+    font-size: 18px;
+    margin: 100px 30px 100px 30px;
+}
+
+.image-container {
+    width: 400px;
+    text-align: center;
+    border: 2px dashed #F3B95F;
+    border-radius: 10px;
+}

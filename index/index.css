@@ -1,0 +1,31 @@
+.music {
+    margin-top: 20px;
+}
+
+main {
+    text-align: center;
+}
+main p {
+    font-size: x-large;
+    
+}
+
+img {
+    position: relative;
+    left: 150px;
+    height: 400px;
+}
+
+footer {
+    clear: both;
+}
+
+audio {
+    clear: both;
+}
+
+audio {
+    position: relative;
+    top: 0px;
+    right: 154px;
+}

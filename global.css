@@ -1,0 +1,44 @@
+body {
+    background-color: #D04848;
+    margin: 0;
+}
+
+.counter {
+    background-color: #FDE767;
+    height: 120px;
+    text-align: center;
+    font-size: 50px;
+    color: #D04848;
+}
+
+span {
+    color: #F3B95F;
+    font-weight: bold;
+}
+
+footer {
+    background-color: #F3B95F;
+    text-align: center;
+    border-top: 5px solid brown;
+    padding: 10px;
+    margin-top: 10px;
+    bottom: 0px;
+}
+
+.navbar {
+    display: flex;
+    gap: 10px;
+    background-color: #FDE767;
+    border-bottom: 5px solid brown
+}
+
+.navbar a {
+    font-size: 17pt;
+    font-weight: bold;
+    color: #D04848;
+}
+
+.body {
+    overflow: hidden;
+
+}
